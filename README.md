@@ -37,15 +37,15 @@ The applciation is automated and will check once an hour by default which is don
 <br>
 The email sent follows this format...<br><br>
 
-Cyberpunk 2077 with Limited Edition Steelbook (Exclusive to Amazon.co.uk) (PS4)
-<br>
-Price now stands at £49.99
-<br>
-Check out the Amazon link
-https://www.amazon.co.uk/CD-Projekt-Red-Cyberpunk-2077/dp/B07DM6JTVZ/ref=sr_1_1?keywords=the+last+of+us+part+2&qid=1562425216&s=gateway&sr=8-1
-<br>
+    Cyberpunk 2077 with Limited Edition Steelbook (Exclusive to Amazon.co.uk) (PS4)
+    
+    Price now stands at £49.99
+    
+    Check out the Amazon link
+    https://www.amazon.co.uk/CD-Projekt-Red-Cyberpunk-2077/dp/B07DM6JTVZ/ref=sr_1_1?keywords=the+last+of+us+part+2&qid=1562425216&s=gateway&sr=8-1
+    
 
-<h6>The terminal output will be</h6><br>
+<h4>The terminal output will be</h4><br>
 > Cyberpunk 2077 with Limited Edition Steelbook (Exclusive to Amazon.co.uk) (PS4)
 <br>
 > Current price is: £49.99
