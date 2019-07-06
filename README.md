@@ -13,7 +13,7 @@ Install with - <br>
 ```python 
 pip install requests bs4
 ```
-<br><br>
+<h4>Instructions for changing variable names so that you recieve emails</h4>
 You have to fill in your email address and password, although a temporary password can be generated for you in your provider is gmail and you create an app password, then click on mail for computer which will generate you a random password that is different than your gmail one. - link - https://support.google.com/accounts/answer/185833?hl=en
 <br>
 Enter those details in the variables that state them which are right at the top.
