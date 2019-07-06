@@ -15,6 +15,13 @@ You have to fill in your email address and password, although a temporary passwo
 <br>
 Enter those details in the variables that state them which are right at the top.
 <br>
+'''
+#Add your email address here - may run into issues in two factor authentication is turned off.
+email = "Enter your email address"
+#Add your email password here, you can go onto the sign in using app passwords on the google website to generate a random one to use specifically for this - link is https://support.google.com/accounts/answer/185833?hl=en
+email_password = "Enter your email password"
+'''
+<br>
 Then just run this app from the terminal.
 <br><br>
 You can fill in any link from Amazon for a product and you can specify the amount that the price has decreased which will send you an email notification.
