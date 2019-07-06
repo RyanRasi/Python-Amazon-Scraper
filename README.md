@@ -35,13 +35,13 @@ All of the code has been commented for easy readability and manipualtion of the 
 <br>
 The applciation is automated and will check once an hour by default which is done by seconds (3600) and the variable that controls this is at the bottom of the code. Though most will deem it appropriate to change it to once a day (86400).
 <br>
-The email sent follows this format...
+The email sent follows this format...<br><br>
 ```
 
 Cyberpunk 2077 with Limited Edition Steelbook (Exclusive to Amazon.co.uk) (PS4)
-
+<br>
 Price now stands at £49.99
-
+<br>
 Check out the Amazon link
 https://www.amazon.co.uk/CD-Projekt-Red-Cyberpunk-2077/dp/B07DM6JTVZ/ref=sr_1_1?keywords=the+last+of+us+part+2&qid=1562425216&s=gateway&sr=8-1
 ```
