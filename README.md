@@ -46,9 +46,9 @@ The email sent follows this format...<br><br>
     
 
 <h4>The terminal output will be</h4><br>
-> Cyberpunk 2077 with Limited Edition Steelbook (Exclusive to Amazon.co.uk) (PS4)
-<br>
-> Current price is: £49.99
+        > Cyberpunk 2077 with Limited Edition Steelbook (Exclusive to Amazon.co.uk) (PS4)
+        <br>
+        > Current price is: £49.99
 <br><br>
 The code also features encoding to UTF-8 to support the pound sterling symbol being transmitted correctly via email.
 <br><br>
