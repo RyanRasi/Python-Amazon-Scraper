@@ -35,7 +35,7 @@ All of the code has been commented for easy readability and manipualtion of the 
 <br>
 The applciation is automated and will check once an hour by default which is done by seconds (3600) and the variable that controls this is at the bottom of the code. Though most will deem it appropriate to change it to once a day (86400).
 <br>
-The email sent follows this format...<br><br>
+<h4>The email sent follows this format...</h4><br><br>
 
     Cyberpunk 2077 with Limited Edition Steelbook (Exclusive to Amazon.co.uk) (PS4)
     
