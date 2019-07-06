@@ -49,6 +49,8 @@ The applciation is automated and will check once an hour by default which is don
 > Cyberpunk 2077 with Limited Edition Steelbook (Exclusive to Amazon.co.uk) (PS4)
 <br>
 > Current price is: £49.99
+<br>
+> Email has been sent to ***@***.com
 <br><br>
 The code also features encoding to UTF-8 to support the pound sterling symbol being transmitted correctly via email.
 <br><br>
