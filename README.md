@@ -56,3 +56,11 @@ The code also features encoding to UTF-8 to support the pound sterling symbol be
 <br><br>
 By default the Amazon product is CyberPunk 2077 and the price checks if it has gone below £50.00 before sending an email.
 <br>The game costs £49.99 to pre-order so the email should always be sent out unless the price or product is otherwise changed.
+<br><br>
+
+#### Donate
+Buy me a coffee to donate if you like
+<br>
+https://www.buymeacoffee.com/uiSK0Ex
+
+<a href="https://www.buymeacoffee.com/uiSK0Ex"><img src="https://static-2.gumroad.com/res/gumroad/9026696959709/asset_previews/09c9bf14407c2a76d088f22121d0b0a9/retina/Screen_20Shot_202017-10-20_20at_2010.09.59.jpg" alt="alt text" width="251.25" height="183.75"></a>
